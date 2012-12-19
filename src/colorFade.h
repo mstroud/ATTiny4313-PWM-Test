@@ -5,7 +5,7 @@
 #include <asf/mega/utils/progmem.h>
 
 #define NUM_COLORS    3 // Number of color channels
-#define NUM_FADES     2 // Number of fades in the fade table (globalFade.h)
+#define NUM_FADES     7 // Number of fades in the fade table (globalFade.h)
 
 /*
  * color value struct
